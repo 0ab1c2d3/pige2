@@ -16,7 +16,7 @@ If you encounter any issues or have suggestions for improvements, please open an
 
 ### Parameters
 
-- `itemsFile` (mandatory): The file where the participants are stored
+- `itemsFile` (mandatory): The file where the participants are stored, *** Seperate the item by a comma ','
 - `outputFilePath` (mandatory): The draw output folder
 - `pairHistoryFolder` (optional): Folder for the draw history
 - `stats` (optional): Get the stats from the draw
